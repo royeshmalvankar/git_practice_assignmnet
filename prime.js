@@ -2,17 +2,21 @@ function prime(num)
 {
   if(num%i===0)
   {
-    f+=1
+    ft+=1
   }
-  return f
+  return ft
 }
-f=0
+
+
+ft=0
 num1=13
 for (i=1;i<=num1+1;i++)
 {
-p=prime(num1)
+pri=prime(num1)
 }
-if (p<=2 )//change this number to 2 to correct the code
+
+
+if (pri<=2 )//change this number to 2 to correct the code
 {
 console.log("Prime number")
 }
