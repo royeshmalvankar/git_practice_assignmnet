@@ -12,7 +12,7 @@ for (i=1;i<=num1+1;i++)
 {
 p=prime(num1)
 }
-if (p<=2)//change this number to 2 to correct the code
+if (p<=1 )//change this number to 2 to correct the code
 {
 console.log("Prime number")
 }
