@@ -7,7 +7,7 @@ function prime(num)
   return f
 }
 f=0
-num1=12
+num1=13
 for (i=1;i<=num1+1;i++)
 {
 p=prime(num1)
